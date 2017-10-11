@@ -56,8 +56,10 @@
 		<module>nics-db</module>
 		<module>nics-common</module>
 		<module>nics-tools</module>
+<!--
 		<module>nics-monitoring</module>
 		<module>nics-core-processor</module>
+-->
 		<module>em-api</module>
 		<module>iweb-modules</module>
 		<module>nics-web</module>
