@@ -1,4 +1,7 @@
 language: java
+before_install:
+  - sudo apt-get -qq update
+  - sudo apt-get install -y rabbitmq-server
 install: mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V -q
 jdk:
   - oraclejdk8
