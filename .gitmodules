@@ -1,0 +1,36 @@
+[submodule "nics-tools"]
+	path = nics-tools
+	url = git://github.com/hadrsystemsteam/nics-tools.git
+	branch = .
+[submodule "nics-web"]
+	path = nics-web
+	url = git://github.com/hadrsystemsteam/nics-web.git
+	branch = .
+[submodule "iweb-modules"]
+	path = iweb-modules
+	url = git://github.com/hadrsystemsteam/iweb-modules.git
+	branch = .
+[submodule "em-api"]
+	path = em-api
+	url = git://github.com/hadrsystemsteam/em-api.git
+	branch = .
+[submodule "nics-common"]
+	path = nics-common
+	url = git://github.com/hadrsystemsteam/nics-common.git
+	branch = .
+[submodule "nics-assembly"]
+	path = nics-assembly
+	url = git://github.com/hadrsystemsteam/nics-assembly.git
+	branch = .
+[submodule "nics-monitoring"]
+	path = nics-monitoring
+	url = git://github.com/hadrsystemsteam/nics-monitoring.git
+	branch = .
+[submodule "nics-core-processor"]
+	path = nics-core-processor
+	url = git://github.com/hadrsystemsteam/nics-core-processor.git
+	branch = .
+[submodule "nics-db"]
+	path = nics-db
+	url = git://github.com/hadrsystemsteam/nics-db.git
+	branch = .
